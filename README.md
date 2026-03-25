@@ -1,7 +1,22 @@
-# Automatical Gui Aligner
+# Automatical GUI Aligner
 
-## premises:
-* This code was made in like 5 minutes using [Bing's GPT 4 model (basically didn't have to pay for ChatGPT premium, get trolled OpenAI making OpenSource paid)](https://strict.bing.com/).
-* end of premises 💀
+A lightweight Python utility designed to automate GUI alignment tasks. Developed in 2023 rapidly using **Bing's GPT-4 model** as a cost-effective alternative to paid AI tools.
 
-i do believe this should work on also linux and macOS or any other OS that runs Python but I'm not quite sure how it works so meh
+---
+
+## Key Features
+- **Cross-platform compatibility**: Expected to work on **Windows, Linux, and macOS** (or any OS with Python support).
+- **Open-source**: Free to use, modify, and distribute.
+
+---
+
+## Development Context
+- Created in **under 5 minutes** using AI-assisted tools.
+- Demonstrates the power of open-source AI in accelerating development workflows.
+
+---
+
+## Technical Note
+While not extensively tested across all platforms, the tool leverages Python’s cross-platform capabilities for broad compatibility.
+
+---
